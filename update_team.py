@@ -40,7 +40,7 @@ import github
 MY_PAT = None
 
 # Select the org you want to access
-MY_ORG = "ansys"
+MY_ORG = "thetechcollective"
 
 # =============================================================================
 # MODIFY WITH CAUTION FROM THIS POINT ONWARDS
